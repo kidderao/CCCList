@@ -1,8 +1,9 @@
 {
     "version": "1.0.0",
-    "download_url": "https://github.com/kidderao/CCCList/releases/download/v1.0.0/CCCList_setup.exe",
+    "download_url": "https://github.com/kidderao/CCCList/releases/download/v1.0.0/CCCList.exe",
     "changelog": "1.0.0版本发布",
     "release_date": "2025-09-28",
     "mandatory": false
 
 }
+
