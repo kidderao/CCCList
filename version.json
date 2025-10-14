@@ -1,14 +1,15 @@
 {
     "app_name": "CCCList",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "app_executable": "CCCList.exe",
-    "download_url": "https://github.com/kidderao/CCCList/releases/download/v1.0.0/CCCList_launcher.exe",
+    "download_url": "https://github.com/kidderao/CCCList/releases/download/v1.1.0/CCCList_launcher.exe",
     "version_file_url":"https://kidderao.github.io/CCCList/version.json",
-    "changelog": "1.0.0版本发布",
+    "changelog": "1.1.0版本新增两个清单证书编号比较，相同的标号会在第二个清单中标出",
     "release_date": "2025-09-28",
     "mandatory": false
 
 }
+
 
 
 
